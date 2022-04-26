@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "iactive.pro",
+    "slug": "iactive.pro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
