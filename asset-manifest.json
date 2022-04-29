@@ -1,0 +1,19 @@
+{
+  "files": {
+    "app.js": "/iactive.proTest/static/js/app.588a707f.chunk.js",
+    "app.js.map": "/iactive.proTest/static/js/app.588a707f.chunk.js.map",
+    "runtime~app.js": "/iactive.proTest/static/js/runtime~app.3d8b3d9d.js",
+    "runtime~app.js.map": "/iactive.proTest/static/js/runtime~app.3d8b3d9d.js.map",
+    "static/js/2.4905b468.chunk.js": "/iactive.proTest/static/js/2.4905b468.chunk.js",
+    "static/js/2.4905b468.chunk.js.map": "/iactive.proTest/static/js/2.4905b468.chunk.js.map",
+    "index.html": "/iactive.proTest/index.html",
+    "manifest.json": "/iactive.proTest/manifest.json",
+    "serve.json": "/iactive.proTest/serve.json",
+    "static/js/2.4905b468.chunk.js.LICENSE.txt": "/iactive.proTest/static/js/2.4905b468.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.3d8b3d9d.js",
+    "static/js/2.4905b468.chunk.js",
+    "static/js/app.588a707f.chunk.js"
+  ]
+}
